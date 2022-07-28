@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Changed button 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-![ezgif-1-d978245416](https://user-images.githubusercontent.com/42418189/181500479-1ec7c562-c5eb-4dae-9be1-8deeeda423f8.gif)
+![ezgif-3-9e8bb034bd](https://user-images.githubusercontent.com/42418189/181517682-34c645e3-7941-4c7f-b224-f128bec5bf0b.gif)
 
 
 ## Notes
